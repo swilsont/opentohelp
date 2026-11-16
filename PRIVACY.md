@@ -44,7 +44,7 @@ If the way the extension handles data changes, this policy will be updated befor
 
 ### Contact
 
-Questions or concerns: open an issue in the project's repository: <REPO_URL>/issues
+Questions or concerns: open an issue in the project's repository: https://github.com/swilsont/opentohelp/issues
 
 ---
 
@@ -86,4 +86,4 @@ Si cambia la forma en que la extensión maneja datos, esta política se actualiz
 
 ### Contacto
 
-Dudas o reclamos: abre un issue en el repositorio del proyecto: <REPO_URL>/issues
+Dudas o reclamos: abre un issue en el repositorio del proyecto: https://github.com/swilsont/opentohelp/issues

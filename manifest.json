@@ -4,6 +4,7 @@
   "short_name": "OPENTOHELP",
   "version": "1.0.0",
   "description": "__MSG_extensionDescription__",
+  "homepage_url": "https://github.com/swilsont/opentohelp",
   "default_locale": "en",
   "icons": {
     "16": "icons/icon-16.png",
