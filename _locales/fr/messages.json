@@ -1,0 +1,95 @@
+{
+  "extensionDescription": {
+    "message": "Indique lesquelles de vos relations LinkedIn sont « Open to Work » ou « Hiring », pour que vous puissiez les aider."
+  },
+  "updateButton": {
+    "message": "Mettre à jour la liste"
+  },
+  "showWindowButton": {
+    "message": "Afficher la fenêtre"
+  },
+  "stopButton": {
+    "message": "Arrêter"
+  },
+  "openToWorkTab": {
+    "message": "Open to Work"
+  },
+  "hiringTab": {
+    "message": "Hiring"
+  },
+  "otherFramesTab": {
+    "message": "Autres cadres"
+  },
+  "filterPlaceholder": {
+    "message": "Filtrer par nom ou poste…"
+  },
+  "newLabel": {
+    "message": "Nouveau"
+  },
+  "statusUpdating": {
+    "message": "Mise à jour… $1 relations vérifiées"
+  },
+  "statusPaused": {
+    "message": "En pause : revenez à la fenêtre de mise à jour pour continuer."
+  },
+  "statusLastUpdate": {
+    "message": "Dernière mise à jour : $1"
+  },
+  "statusNeverUpdated": {
+    "message": "Vous n'avez pas encore mis à jour votre liste."
+  },
+  "emptyNoData": {
+    "message": "Cliquez sur « Mettre à jour la liste » pour vérifier vos relations."
+  },
+  "emptyNoResults": {
+    "message": "Personne ne correspond au filtre."
+  },
+  "emptyNoConnections": {
+    "message": "Aucune de vos relations n'a ce cadre."
+  },
+  "bannerUpdating": {
+    "message": "Mise à jour de votre liste"
+  },
+  "bannerPaused": {
+    "message": "En pause"
+  },
+  "bannerProgress": {
+    "message": "$1 relations vérifiées · $2 avec un cadre"
+  },
+  "bannerNoticePaused": {
+    "message": "Revenez à cette fenêtre (sur la page des relations) pour continuer."
+  },
+  "statusError": {
+    "message": "une erreur s'est produite, consultez la console"
+  },
+  "statusIncomplete": {
+    "message": "La dernière mise à jour est incomplète ($1 sur $2 relations). Veuillez réessayer."
+  },
+  "bannerFinished": {
+    "message": "Terminé, vous pouvez fermer cette fenêtre."
+  },
+  "statusIncompleteNoTotal": {
+    "message": "La dernière mise à jour est incomplète ($1 relations vérifiées). Veuillez réessayer."
+  },
+  "bannerProgressWithTotal": {
+    "message": "$1 sur $2 relations vérifiées · $3 avec un cadre"
+  },
+  "bannerNoticeDirect": {
+    "message": "Vous pouvez laisser cette fenêtre réduite ou en arrière-plan, mais ne la fermez pas avant la fin du processus."
+  },
+  "statusUpdatingWithTotal": {
+    "message": "Mise à jour… $1 sur $2 relations vérifiées"
+  },
+  "elapsedTime": {
+    "message": "Temps écoulé : $1"
+  },
+  "durationDetail": {
+    "message": "Durée : $1"
+  },
+  "bannerNoticeDiscovering": {
+    "message": "Préparation de la lecture de vos relations. Gardez cette fenêtre visible quelques secondes et ne la fermez pas avant la fin du processus."
+  },
+  "bannerNoticeScroll": {
+    "message": "Gardez cette fenêtre visible et ne la fermez pas avant la fin du processus. Au fur et à mesure de la lecture, les cartes et photos des relations sont retirées de cette fenêtre pour qu'elle soit plus rapide et utilise moins de mémoire."
+  }
+}

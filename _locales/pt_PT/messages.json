@@ -1,0 +1,95 @@
+{
+  "extensionDescription": {
+    "message": "Mostra quais das suas conexões do LinkedIn estão \"Open to Work\" ou \"Hiring\", para que as possa ajudar."
+  },
+  "updateButton": {
+    "message": "Atualizar lista"
+  },
+  "showWindowButton": {
+    "message": "Ver janela"
+  },
+  "stopButton": {
+    "message": "Parar"
+  },
+  "openToWorkTab": {
+    "message": "Open to Work"
+  },
+  "hiringTab": {
+    "message": "Hiring"
+  },
+  "otherFramesTab": {
+    "message": "Outras molduras"
+  },
+  "filterPlaceholder": {
+    "message": "Filtrar por nome ou cargo…"
+  },
+  "newLabel": {
+    "message": "Novo"
+  },
+  "statusUpdating": {
+    "message": "A atualizar… $1 conexões verificadas"
+  },
+  "statusPaused": {
+    "message": "Em pausa: volte à janela de atualização para continuar."
+  },
+  "statusLastUpdate": {
+    "message": "Última atualização: $1"
+  },
+  "statusNeverUpdated": {
+    "message": "Ainda não atualizou a sua lista."
+  },
+  "emptyNoData": {
+    "message": "Clique em \"Atualizar lista\" para verificar as suas conexões."
+  },
+  "emptyNoResults": {
+    "message": "Ninguém corresponde ao filtro."
+  },
+  "emptyNoConnections": {
+    "message": "Nenhuma das suas conexões tem esta moldura."
+  },
+  "bannerUpdating": {
+    "message": "A atualizar a sua lista"
+  },
+  "bannerPaused": {
+    "message": "Em pausa"
+  },
+  "bannerProgress": {
+    "message": "$1 conexões verificadas · $2 com moldura"
+  },
+  "bannerNoticePaused": {
+    "message": "Volte a esta janela (na página de conexões) para continuar."
+  },
+  "statusError": {
+    "message": "ocorreu um erro, verifique a consola"
+  },
+  "statusIncomplete": {
+    "message": "A última atualização ficou incompleta ($1 de $2 conexões). Tente novamente."
+  },
+  "bannerFinished": {
+    "message": "Concluído, já pode fechar esta janela."
+  },
+  "statusIncompleteNoTotal": {
+    "message": "A última atualização ficou incompleta ($1 conexões verificadas). Tente novamente."
+  },
+  "bannerProgressWithTotal": {
+    "message": "$1 de $2 conexões verificadas · $3 com moldura"
+  },
+  "bannerNoticeDirect": {
+    "message": "Pode deixar esta janela minimizada ou em segundo plano, mas não a feche até o processo terminar."
+  },
+  "statusUpdatingWithTotal": {
+    "message": "A atualizar… $1 de $2 conexões verificadas"
+  },
+  "elapsedTime": {
+    "message": "Tempo decorrido: $1"
+  },
+  "durationDetail": {
+    "message": "Demorou $1"
+  },
+  "bannerNoticeDiscovering": {
+    "message": "A preparar a leitura das suas conexões. Mantenha esta janela visível durante alguns segundos e não a feche até o processo terminar."
+  },
+  "bannerNoticeScroll": {
+    "message": "Mantenha esta janela visível e não a feche até o processo terminar. À medida que as conexões são lidas, os respetivos cartões e fotos são removidos desta janela para que funcione mais depressa e use menos memória."
+  }
+}

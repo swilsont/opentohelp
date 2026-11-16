@@ -1,0 +1,95 @@
+{
+  "extensionDescription": {
+    "message": "Shows which of your LinkedIn connections are \"Open to Work\" or \"Hiring\", so you can help them."
+  },
+  "updateButton": {
+    "message": "Update list"
+  },
+  "showWindowButton": {
+    "message": "Show window"
+  },
+  "stopButton": {
+    "message": "Stop"
+  },
+  "openToWorkTab": {
+    "message": "Open to Work"
+  },
+  "hiringTab": {
+    "message": "Hiring"
+  },
+  "otherFramesTab": {
+    "message": "Other frames"
+  },
+  "filterPlaceholder": {
+    "message": "Filter by name or title…"
+  },
+  "newLabel": {
+    "message": "New"
+  },
+  "statusUpdating": {
+    "message": "Updating… $1 connections checked"
+  },
+  "statusPaused": {
+    "message": "Paused: go back to the update window to continue."
+  },
+  "statusLastUpdate": {
+    "message": "Last updated: $1"
+  },
+  "statusNeverUpdated": {
+    "message": "You haven't updated your list yet."
+  },
+  "emptyNoData": {
+    "message": "Click \"Update list\" to check your connections."
+  },
+  "emptyNoResults": {
+    "message": "No one matches the filter."
+  },
+  "emptyNoConnections": {
+    "message": "None of your connections have this frame."
+  },
+  "bannerUpdating": {
+    "message": "Updating your list"
+  },
+  "bannerPaused": {
+    "message": "Paused"
+  },
+  "bannerProgress": {
+    "message": "$1 connections checked · $2 with a frame"
+  },
+  "bannerNoticePaused": {
+    "message": "Come back to this window (on the connections page) to continue."
+  },
+  "statusError": {
+    "message": "an error occurred, check the console"
+  },
+  "statusIncomplete": {
+    "message": "The last update was incomplete ($1 of $2 connections). Please try again."
+  },
+  "bannerFinished": {
+    "message": "Done, you can close this window."
+  },
+  "statusIncompleteNoTotal": {
+    "message": "The last update was incomplete ($1 connections checked). Please try again."
+  },
+  "bannerProgressWithTotal": {
+    "message": "$1 of $2 connections checked · $3 with a frame"
+  },
+  "bannerNoticeDirect": {
+    "message": "You can leave this window minimized or in the background, but don't close it until the process has finished."
+  },
+  "statusUpdatingWithTotal": {
+    "message": "Updating… $1 of $2 connections checked"
+  },
+  "elapsedTime": {
+    "message": "Elapsed time: $1"
+  },
+  "durationDetail": {
+    "message": "Took $1"
+  },
+  "bannerNoticeDiscovering": {
+    "message": "Getting ready to read your connections. Keep this window visible for a few seconds and don't close it until the process has finished."
+  },
+  "bannerNoticeScroll": {
+    "message": "Keep this window visible and don't close it until the process has finished. As connections are read, their cards and photos are removed from this window so it runs faster and uses less memory."
+  }
+}

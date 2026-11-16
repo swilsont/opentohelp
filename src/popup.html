@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>#OPENTOHELP</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <h1>#OPENTOHELP</h1>
+    <p id="status" class="status"></p>
+    <p id="detail" class="detail" hidden></p>
+    <div class="actions">
+      <button id="btn-update" class="primary" data-i18n="updateButton"></button>
+      <button id="btn-show-window" hidden data-i18n="showWindowButton"></button>
+      <button id="btn-stop" hidden data-i18n="stopButton"></button>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-badge="openToWork" class="tab active">
+      <span data-i18n="openToWorkTab"></span> <span class="counter" id="count-openToWork">0</span>
+    </button>
+    <button role="tab" data-badge="hiring" class="tab">
+      <span data-i18n="hiringTab"></span> <span class="counter" id="count-hiring">0</span>
+    </button>
+    <button role="tab" data-badge="unknown" class="tab" hidden>
+      <span data-i18n="otherFramesTab"></span> <span class="counter" id="count-unknown">0</span>
+    </button>
+  </nav>
+
+  <input id="filter" type="search" data-i18n-placeholder="filterPlaceholder" autocomplete="off">
+
+  <ul id="list" class="list"></ul>
+  <p id="empty" class="empty" hidden></p>
+
+  <template id="contact-template">
+    <li>
+      <a class="link" target="_blank" rel="noopener noreferrer">
+        <img class="photo" alt="" width="40" height="40">
+        <span class="initials" hidden></span>
+        <span class="text">
+          <span class="name"></span>
+          <span class="headline"></span>
+        </span>
+        <span class="new-label" hidden></span>
+      </a>
+    </li>
+  </template>
+
+  <script src="compat.js"></script>
+  <script src="config.js"></script>
+  <script src="i18n.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

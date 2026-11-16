@@ -1,0 +1,95 @@
+{
+  "extensionDescription": {
+    "message": "Muestra cuáles de tus contactos de LinkedIn están \"Open to Work\" o \"Hiring\", para que puedas ayudarlos."
+  },
+  "updateButton": {
+    "message": "Actualizar lista"
+  },
+  "showWindowButton": {
+    "message": "Ver ventana"
+  },
+  "stopButton": {
+    "message": "Detener"
+  },
+  "openToWorkTab": {
+    "message": "Open to Work"
+  },
+  "hiringTab": {
+    "message": "Hiring"
+  },
+  "otherFramesTab": {
+    "message": "Otros marcos"
+  },
+  "filterPlaceholder": {
+    "message": "Filtrar por nombre o cargo…"
+  },
+  "newLabel": {
+    "message": "Nuevo"
+  },
+  "statusUpdating": {
+    "message": "Actualizando… $1 contactos revisados"
+  },
+  "statusPaused": {
+    "message": "En pausa: vuelve a la ventana de actualización para continuar."
+  },
+  "statusLastUpdate": {
+    "message": "Última actualización: $1"
+  },
+  "statusNeverUpdated": {
+    "message": "Aún no has actualizado tu lista."
+  },
+  "emptyNoData": {
+    "message": "Presiona \"Actualizar lista\" para revisar tus contactos."
+  },
+  "emptyNoResults": {
+    "message": "Nadie coincide con el filtro."
+  },
+  "emptyNoConnections": {
+    "message": "Ninguno de tus contactos tiene este marco."
+  },
+  "bannerUpdating": {
+    "message": "Actualizando tu lista"
+  },
+  "bannerPaused": {
+    "message": "En pausa"
+  },
+  "bannerProgress": {
+    "message": "$1 contactos revisados · $2 con marco"
+  },
+  "bannerNoticePaused": {
+    "message": "Vuelve a esta ventana (en la página de conexiones) para continuar."
+  },
+  "statusError": {
+    "message": "hubo un error, revisa la consola"
+  },
+  "statusIncomplete": {
+    "message": "La última actualización quedó incompleta ($1 de $2 contactos). Intenta de nuevo."
+  },
+  "bannerFinished": {
+    "message": "Listo, ya puedes cerrar esta ventana."
+  },
+  "statusIncompleteNoTotal": {
+    "message": "La última actualización quedó incompleta ($1 contactos revisados). Intenta de nuevo."
+  },
+  "bannerProgressWithTotal": {
+    "message": "$1 de $2 contactos revisados · $3 con marco"
+  },
+  "bannerNoticeDirect": {
+    "message": "Puedes dejar esta ventana minimizada o en segundo plano, pero no la cierres hasta que el proceso haya finalizado."
+  },
+  "statusUpdatingWithTotal": {
+    "message": "Actualizando… $1 de $2 contactos revisados"
+  },
+  "elapsedTime": {
+    "message": "Tiempo transcurrido: $1"
+  },
+  "durationDetail": {
+    "message": "Demoró $1"
+  },
+  "bannerNoticeDiscovering": {
+    "message": "Preparando la lectura de tus contactos. Mantén esta ventana visible unos segundos y no la cierres hasta que el proceso haya finalizado."
+  },
+  "bannerNoticeScroll": {
+    "message": "Mantén esta ventana visible y no la cierres hasta que el proceso haya finalizado. A medida que se leen los contactos, sus tarjetas y fotos se quitan de esta ventana para que funcione más rápido y use menos memoria."
+  }
+}
