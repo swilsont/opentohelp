@@ -1,7 +1,7 @@
 # Publicación en las tiendas
 
 Textos listos para copiar en el panel de desarrollador de la Chrome Web Store (<https://chrome.google.com/webstore/devconsole>, secciones 1 a 4) y de Firefox Add-ons (<https://addons.mozilla.org/developers/>, sección 5).
-Antes de copiar, reemplaza `<REPO_URL>` por la URL del repositorio en GitHub.
+Repositorio: <https://github.com/swilsont/opentohelp>
 
 ---
 
@@ -30,7 +30,7 @@ PRIVACY
 • Nothing leaves your browser: no servers, no analytics, no tracking.
 • Only connections with a frame are stored, locally in your browser.
 • It doesn't send messages or invitations or take any action on your behalf.
-• The source code is public: <REPO_URL>
+• The source code is public: https://github.com/swilsont/opentohelp
 
 ABOUT LINKEDIN
 #OPENTOHELP is not affiliated with LinkedIn. LinkedIn doesn't allow extensions that automate browsing or copy data from its site, so although this extension only reads your own connections list, at a slow pace and without sending anything outside your browser, LinkedIn could temporarily restrict your account. If you'd rather not take that risk, use it in passive mode: open your connections page and scroll through it yourself; the extension will take note of what you see.
@@ -53,7 +53,7 @@ PRIVACIDAD
 • Nada sale de tu navegador: sin servidores, sin analítica, sin rastreo.
 • Solo se guardan los contactos con marco, en el almacenamiento local de tu navegador.
 • No envía mensajes ni invitaciones, ni hace ninguna acción en tu nombre.
-• El código es público: <REPO_URL>
+• El código es público: https://github.com/swilsont/opentohelp
 
 SOBRE LINKEDIN
 #OPENTOHELP no está afiliada a LinkedIn. LinkedIn no permite extensiones que automaticen la navegación o copien datos de su sitio, así que, aunque esta extensión solo lee tu propia lista de contactos, a un ritmo pausado y sin enviar nada fuera de tu navegador, existe la posibilidad de que LinkedIn restrinja temporalmente tu cuenta. Si prefieres no correr ese riesgo, puedes usarla solo en modo pasivo: abre tu página de conexiones y recórrela tú; la extensión irá anotando lo que veas.
@@ -76,7 +76,7 @@ PRIVACIDADE
 • Nada sai do seu navegador: sem servidores, sem análises, sem rastreamento.
 • Somente as conexões com moldura são salvas, localmente no seu navegador.
 • Não envia mensagens nem convites, nem realiza nenhuma ação em seu nome.
-• O código-fonte é público: <REPO_URL>
+• O código-fonte é público: https://github.com/swilsont/opentohelp
 
 SOBRE O LINKEDIN
 #OPENTOHELP não é afiliada ao LinkedIn. O LinkedIn não permite extensões que automatizem a navegação ou copiem dados do seu site; por isso, embora esta extensão apenas leia a sua própria lista de conexões, em um ritmo lento e sem enviar nada para fora do seu navegador, existe a possibilidade de o LinkedIn restringir temporariamente a sua conta. Se preferir não correr esse risco, use-a apenas no modo passivo: abra a sua página de conexões e percorra-a você mesmo; a extensão vai anotando o que você vê.
@@ -99,7 +99,7 @@ PRIVACIDADE
 • Nada sai do seu navegador: sem servidores, sem análises, sem rastreio.
 • Só são guardadas as conexões com moldura, localmente no seu navegador.
 • Não envia mensagens nem convites, nem realiza qualquer ação em seu nome.
-• O código-fonte é público: <REPO_URL>
+• O código-fonte é público: https://github.com/swilsont/opentohelp
 
 SOBRE O LINKEDIN
 O #OPENTOHELP não está afiliado ao LinkedIn. O LinkedIn não permite extensões que automatizem a navegação ou copiem dados do seu site; por isso, embora esta extensão se limite a ler a sua própria lista de conexões, a um ritmo lento e sem enviar nada para fora do seu navegador, existe a possibilidade de o LinkedIn restringir temporariamente a sua conta. Se preferir não correr esse risco, utilize-a apenas no modo passivo: abra a sua página de conexões e percorra-a manualmente; a extensão vai registando o que vê.
@@ -122,7 +122,7 @@ CONFIDENTIALITÉ
 • Rien ne quitte votre navigateur : aucun serveur, aucune analyse, aucun suivi.
 • Seules les relations avec un cadre sont enregistrées, localement dans votre navigateur.
 • Elle n'envoie ni messages ni invitations et n'effectue aucune action en votre nom.
-• Le code source est public : <REPO_URL>
+• Le code source est public : https://github.com/swilsont/opentohelp
 
 À PROPOS DE LINKEDIN
 #OPENTOHELP n'est pas affiliée à LinkedIn. LinkedIn n'autorise pas les extensions qui automatisent la navigation ou copient des données de son site. Même si cette extension se contente de lire votre propre liste de relations, à un rythme lent et sans rien envoyer en dehors de votre navigateur, LinkedIn pourrait donc restreindre temporairement votre compte. Si vous préférez ne pas courir ce risque, utilisez-la uniquement en mode passif : ouvrez votre page de relations et faites-la défiler vous-même ; l'extension prendra note de ce que vous voyez.
@@ -195,7 +195,7 @@ Certificaciones (marcar las tres):
 ### Privacy policy URL
 
 ```
-<REPO_URL>/blob/main/PRIVACY.md
+https://github.com/swilsont/opentohelp/blob/main/PRIVACY.md
 ```
 
 ---
@@ -209,8 +209,8 @@ Certificaciones (marcar las tres):
 
 ## 4. Pasos, en orden
 
-1. Crear el repositorio público en GitHub y subir el código (sin la carpeta `store/` si prefieres no publicarla; no es necesaria para la extensión).
-2. Reemplazar `<REPO_URL>` en `PRIVACY.md` y en este archivo, y volver a subir `PRIVACY.md`.
+1. ~~Crear el repositorio público en GitHub y subir el código.~~ Listo.
+2. Subir al repositorio `PRIVACY.md` y `store/LISTING.md` con la URL del repositorio ya puesta, para que el enlace de la política funcione.
 3. Registrarse como desarrollador en <https://chrome.google.com/webstore/devconsole> (pago único de US$5).
 4. "Nuevo elemento" → subir `opentohelp-1.0.0-chrome.zip`.
 5. Completar la ficha (sección 1) para cada idioma, subir las imágenes, completar la pestaña de privacidad (sección 2) y la de distribución (sección 3).
@@ -235,8 +235,8 @@ En el manifest se declaró `"none"`: según Mozilla, recopilar significa que los
 - **Descripción:** usar las mismas de la sección 1 (AMO permite una por idioma).
 - **Categoría:** *Social & Communication*.
 - **Licencia:** MIT.
-- **Política de privacidad:** pegar el contenido de `PRIVACY.md`, o el enlace `<REPO_URL>/blob/main/PRIVACY.md`.
-- **Sitio web / soporte:** `<REPO_URL>` y `<REPO_URL>/issues`.
+- **Política de privacidad:** pegar el contenido de `PRIVACY.md`, o el enlace `https://github.com/swilsont/opentohelp/blob/main/PRIVACY.md`.
+- **Sitio web / soporte:** `https://github.com/swilsont/opentohelp` y `https://github.com/swilsont/opentohelp/issues`.
 - **Capturas:** las mismas de la sección 1.
 
 ### Notes to reviewer (en inglés)
@@ -251,7 +251,7 @@ Permissions:
 - www.linkedin.com: content script on the connections page and repeating that request.
 - media.licdn.com: downloading framed profile photos to read the frame color in memory (OffscreenCanvas); images are not stored.
 
-No remote code, no minification, no build step. Source: <REPO_URL>
+No remote code, no minification, no build step. Source: https://github.com/swilsont/opentohelp
 ```
 
 ### Pasos
